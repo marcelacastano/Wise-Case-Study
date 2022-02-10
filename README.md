@@ -4,7 +4,7 @@
 
 <br>
 
-![Wise_Logo](wise_logo.png)
+![Wise_Logo](images/wise_logo.png)
 
 Wise started as an appealing alternative for international money transfers by offering lower exchange rates than banks. It has since expanded to offer other services such as a multi-currency account, a debit card, and a business account.
 
@@ -36,7 +36,7 @@ Back in its conception, Kristo and Taavet self-funded for a year before landing 
 
 Although it took the founders some time to build up excitement by large investors, the company saw continuous upward support after the seed round. Here’s an illustration of Wise’s funding rounds in millions of dollars before their public offering on the LSE.
 
-![Funding](funding-rounds.png)
+![Funding](images/funding-rounds.png)
 Data retrieved from [Craft.co](https://craft.co/transferwise/funding-rounds), [Crunchbase](https://www.crunchbase.com/organization/transferwise/company_financials), and [Dealroom.co](https://app.dealroom.co/companies/transferwise).
 
 Financial support didn’t stop there, however, after their IPO, Wise received secondary market investments and debt financing. Overall, Wise has been backed by more than two dozen investors and received a total of $1.3 billions over the course of 13 investment rounds, with the latest occurring on May of 2021. [^CB]
@@ -101,7 +101,7 @@ So why do banks charge so much for these transactions? During international wire
 
 Wise operates differently in that intermediaries are eliminated, and exchange fees avoided by collecting the money through a local bank in the home currency and country, and executing the pay out through a local bank in the recipient’s currency and country [^REP21]. This process is refered to as a peer-to-peer currency exchange, and can be visualized in the image below.
 
-![wise transfers](wise-transfer.png)
+![wise transfers](images/wise-transfer.png)
 
 Image retrieved from "TransferWise Ltd Annual Report and Accounts 2021."
 
@@ -146,7 +146,7 @@ Wise’s fee calculator tool allows the costumer to determine the cost for wirin
 
 Over the course of time, the fee charged by Wise may vary depending on their internal processes, but they pride themselves on lowering these fees whenever possible. Refer to the illustration below which depicts the evolution of the average fee for transaction.
 
-![Wise Pricing](wise-pricegraph.png)
+![Wise Pricing](images/wise-pricegraph.png)
 
 #### **Wise Account**
 
@@ -213,9 +213,9 @@ Wise Platform provides an opportunity for strategic partnerships with banks, cre
 
 ## Landscape
 
-Over the past couple of decades, the payments sector has had to continuously evolve as technological improvements are always on the horizon. Some of the most prominent changes were the introduction of the first few credit cards back in the 50’s, the appearance of ATM machines in the 60’s, and the development of the SWIFT network back in the 70’s [^OANNA]. 
+Over the past couple of decades, the payments sector has had to continuously evolve as technological improvements are always on the horizon. Some of the most prominent changes were the introduction of the first few credit cards back in the 50’s, the appearance of ATM machines in the 60’s, and the development of the SWIFT network back in the 70’s [^OANNA].
 
-However, in recent years, FinTech companies have spearheaded the disruption of traditional models. These non-bank solutions have changed the way we think about transactions in a way that prioritizes convenience and instantaneity. Markedly, the mobile platform industry and non-payment value-added services now fall under the scope of the Payments sector [^OANNA]. 
+However, in recent years, FinTech companies have spearheaded the disruption of traditional models. These non-bank solutions have changed the way we think about transactions in a way that prioritizes convenience and instantaneity. Markedly, the mobile platform industry and non-payment value-added services now fall under the scope of the Payments sector [^OANNA].
 
 Indeed, long-standing financial institutions are rapidly trying to adapt to meet the demand for these integrated services. The most striking of these being streamlining payments or integrating billing, mobile payments, security developments, cryptocurrencies and peer-to-peer transfers [^OANNA]. To accurately capture the essence of the industry’s sentiment,
 
@@ -331,8 +331,8 @@ Data for this section retried from: [^REP21] [^CR2] [^MFS]
 
 ### Expansion of Wise Business
 
-One of the key areas for potential growth is Wise Business. 
-Wise Business currently has a 300K businesses customer base which only represents 3% of their total customer base. Furthermore, outside of Europe, North America and Asia-Pacific, this service only generates around 6% of the total revenue, or £18.2 M [^FB] [^FB2] [^REP21]. 
+One of the key areas for potential growth is Wise Business.
+Wise Business currently has a 300K businesses customer base which only represents 3% of their total customer base. Furthermore, outside of Europe, North America and Asia-Pacific, this service only generates around 6% of the total revenue, or £18.2 M [^FB] [^FB2] [^REP21].
 [Forbes](https://www.forbes.com/sites/danielwebber/2021/07/26/after-the-direct-listing-wises-biggest-challenges-to-come/?sh=640641694f7f) suggests the company should focus their expansion to Africa and Latin America.
 The main challenge to be faced in these regions is growing competition.  In the case of Africa, the remittance market is geared towards cash and mobile wallets, which Wise does not specialize in. As for Latin America, local Fintechs are spreading left and right in the latest years. Approaching these new business regions will require Wise to have a target strategy and even additional product solutions [^FB].
 
@@ -358,7 +358,7 @@ Some of the benefits of Stellar are,
 - Stellar has signed several key partnerships with payment providers. This could bring open up different markets and increase collaboration opportunities through open APIs. Some examples are,
     - Coins.ph: a mobile app that allows anyone with a Stellar wallet to send money to a mobile phone in the Philippines.
     - Flutterwave: mobile payment platform used by 21 million people across Africa.
-    - ICICI Bank 
+    - ICICI Bank.
     - IBM: 12 currency corridors for cross-border payments including Australia, New Zealand, the UK and several Pacific Islands. This is facilitated by the relationships that IBM holds with banks across the globe.
 
 Wise may consider a partnership with a blockchain network of this type, even if not with Stellar. The reason for this is that Stella has already initiated negotiations to purchase MoneyGram, one of Wise’s competitors [^YH].
